@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Monitor demo</string>
+    <string name="stop">禁止启动</string>
+    <string name="open">Open Accessibility</string>
+</resources>
