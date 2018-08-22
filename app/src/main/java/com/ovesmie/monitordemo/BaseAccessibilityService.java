@@ -73,7 +73,7 @@ public class BaseAccessibilityService extends AccessibilityService {
             case AccessibilityEvent.TYPE_VIEW_LONG_CLICKED:
                 break;
         }
-        Log.v("debug",mCurrentPackage);
+        Log.d("debug",mCurrentPackage);
         MainActivity.mactivity.cleanProcess(mCurrentPackage);
     }
 

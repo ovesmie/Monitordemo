@@ -13,8 +13,6 @@ import android.view.KeyEvent;
  */
 public class LockActivity extends AppCompatActivity{
 
-    public static MainActivity mactivity;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
